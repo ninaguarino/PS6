@@ -7,12 +7,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.temporal.TemporalAccessor;
-import java.util.Date;
-
 import base.PersonDAL;
 import ch.makery.address.model.Person;
 import ch.makery.address.util.DateUtil;
